@@ -1,6 +1,6 @@
 # Arvind Singh Rawat !
 
-> Software Developer
-> Machine Learning Enthusiast
-> Backend Engineer
+> :computer: Software Developer\
+> :robot: Machine Learning Enthusiast\
+> :desktop_computer: Backend Engineer
 
