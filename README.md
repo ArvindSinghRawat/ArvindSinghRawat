@@ -1,10 +1,17 @@
+### Hello Folks ! :wave:
+### I am
 # Arvind Singh Rawat ! <img align="right" src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/images/Name.gif?raw=true"></img>
 
 > :computer: Software Developer\
 > :robot: Machine Learning Enthusiast\
 > :desktop_computer: Backend Engineer
 
-
+## More about me
+- 🔭 I am currently working as __SDE Intern @ [HashedIn Technologies](https://hashedin.com/)__.
+- 🎯 I am currently learning Cloud Technologies in AWS.
+- 💡 Occasionally, I participate in Competitive Coding.
+- 🥰 I am passionate about Machine Learning.
+- 😄 Beside Programming: I love Listening music 🎵 and Gaming 🎮
 
 ## Tech Stack
 <br/>
@@ -152,7 +159,7 @@
         <tr>
           <td colspan=2>
             <sub>
-              Image and Icon source : Wikpedia and <a target="_blank" href="https://icons8.com">Icons8</a>
+              Image and Icon source : <a target="_blank" href="https://commons.wikimedia.org/wiki/Main_Page">Wikpedia</a> and <a target="_blank" href="https://icons8.com">Icons8</a>
             </sub>
           </td>
       </tr>
