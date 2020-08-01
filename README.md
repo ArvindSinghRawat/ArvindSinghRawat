@@ -1,4 +1,4 @@
-# Arvind Singh Rawat !
+# Arvind Singh Rawat ! <img align="right" src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/images/Name.gif?raw=true"></img>
 
 > :computer: Software Developer\
 > :robot: Machine Learning Enthusiast\
