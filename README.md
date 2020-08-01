@@ -13,7 +13,7 @@
     <tbody>
         <tr>
             <th colspan=2>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-laptop-coding-50.png?raw=true" height=20/> Languages
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-laptop-coding-50.png?raw=true" height=20/> Languages
             </th>
         </tr>
         <tr>
@@ -41,7 +41,7 @@
         </tr>
         <tr>
             <th colspan=2>
-                Libraries
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-library-50.png?raw=true" height=15/> Libraries
             </th>
         </tr>
         <tr>
@@ -65,7 +65,7 @@
         </tr>
         <tr>
             <th colspan=2>
-                Framework
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-front-view-50.png?raw=true" height=25/> Framework
             </th>
         </tr>
         <tr>
@@ -90,17 +90,18 @@
         </tr>
         <tr>
             <th colspan=2>
-                Tools
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-hand-tools-50.png?raw=true" height=30/> Tools
             </th>
         </tr>
         <tr>
             <td align="center" colspan=2>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/150px-Git-logo.svg.png" height=50/>
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/chrome-dev.jpg?raw=true" height=50/>
             </td>
         </tr>
         <tr>
             <th colspan=2>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-gears-50.png?raw=true" height=30/> Technologies
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-gears-50.png?raw=true" height=25/> Technologies
             </th>
         </tr>
         <tr>
@@ -122,7 +123,7 @@
         </tr>
         <tr>
             <th colspan=2>
-                Favourite IDE
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-program-50.png?raw=true" height=25/> Favourite IDE
             </th>
         </tr>
         <tr>
