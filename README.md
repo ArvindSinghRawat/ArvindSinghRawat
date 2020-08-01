@@ -6,14 +6,26 @@
 > :robot: Machine Learning Enthusiast\
 > :desktop_computer: Backend Engineer
 
+# Social
+[![Gmail Badge](https://img.shields.io/badge/-arvind160102261@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arvind160102261@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Arvind%20Singh%20Rawat-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-singh-rawat/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-Arvind-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RWind_Ching "Contact on Telegram")
+
+
 ## More about me
 - 🔭 I am currently working as __SDE Intern @ [HashedIn Technologies](https://hashedin.com/)__.
-- 🎯 I am currently learning Cloud Technologies in AWS.
+- 🎯 I am currently learning Cloud Technologies with AWS(Amazon Web Services).
 - 💡 Occasionally, I participate in Competitive Coding.
 - 🥰 I am passionate about Machine Learning.
 - 😄 Beside Programming: I love Listening music 🎵 and Gaming 🎮
 
+## Github Statistics
+
+![Arvind's Github Stats](https://github-readme-stats.vercel.app/api?username=ArvindSinghRawat&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindSinghRawat&theme=synthwave&layout=compact)
+
 ## Tech Stack
+
 <br/>
 
 <table>
@@ -165,3 +177,15 @@
       </tr>
     </tfoot>
 </table>
+
+<hr/>
+
+<span align="center">
+    Want to Connect ! Use the above <a href="#user-content-social">links</a>
+</span>
+
+<br/>
+<span align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=ArvindSinghRawat&color=blue"/>
+    <img src="https://badges.pufler.dev/visits/ArvindSinghRawat/ArvindSinghRawat"/>
+</span>
