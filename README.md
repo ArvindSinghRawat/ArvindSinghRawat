@@ -6,7 +6,7 @@
 > :robot: Machine Learning Enthusiast\
 > :desktop_computer: Backend Engineer
 
-# Social
+## Social 
 [![Gmail Badge](https://img.shields.io/badge/-arvind160102261@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arvind160102261@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Arvind%20Singh%20Rawat-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-singh-rawat/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-Arvind-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RWind_Ching "Contact on Telegram")
@@ -180,12 +180,13 @@
 
 <hr/>
 
-<span align="center">
-    Want to Connect ! Use the above <a href="#user-content-social">links</a>
-</span>
+<p align="center"> 
+    Want to Connect ! <br/>
+    Use the above <a href="#user-content-social">links</a>
+</p>
 
-<br/>
-<span align="right"> 
+<hr/>
+<p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=ArvindSinghRawat&color=blue"/>
     <img src="https://badges.pufler.dev/visits/ArvindSinghRawat/ArvindSinghRawat"/>
-</span>
+</p>
