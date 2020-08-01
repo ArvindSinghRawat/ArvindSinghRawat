@@ -6,14 +6,16 @@
 > :robot: Machine Learning Enthusiast\
 > :desktop_computer: Backend Engineer
 
-## Social 
-[![Gmail Badge](https://img.shields.io/badge/-arvind160102261@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arvind160102261@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Arvind%20Singh%20Rawat-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-singh-rawat/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-Arvind-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RWind_Ching "Contact on Telegram")
-
+<h2 id="user-content-social">
+    Social &nbsp;
+    <a href="mailto:arvind160102261@gmail.com"><img src="https://img.shields.io/badge/-arvind160102261@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="http://bit.ly/asr_linkedin"><img src="https://img.shields.io/badge/-Arvind%20Singh%20Rawat-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://t.me/RWind_Ching"><img src="https://img.shields.io/badge/-Arvind-0088CC?style=flat&logo=Telegram&logoColor=white"/></a>
+</h2>
 
 ## More about me
 - 🔭 I am currently working as __SDE Intern @ [HashedIn Technologies](https://hashedin.com/)__.
+- I am from [Dehradun, Uttarakhand, India](https://500px.com/photo/1003701656/Dehradun-by-Arvind-Singh-Rawat).
 - 🎯 I am currently learning Cloud Technologies with AWS(Amazon Web Services).
 - 💡 Occasionally, I participate in Competitive Coding.
 - 🥰 I am passionate about Machine Learning.
