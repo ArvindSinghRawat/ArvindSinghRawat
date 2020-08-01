@@ -4,6 +4,8 @@
 > :robot: Machine Learning Enthusiast\
 > :desktop_computer: Backend Engineer
 
+
+
 ## Tech Stack
 <br/>
 
@@ -28,13 +30,13 @@
         </tr>
         <tr>
             <td align="center" width="50%" >
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-python-50.png?raw=true" height=50/>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-c++-50.png?raw=true" height=50/>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-java-50.png?raw=true" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/250px-Python_logo_and_wordmark.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png" height=50/>
             </td>
             <td align="center" width="50%" >
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-mysql-logo-50.png?raw=true" height=50/>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-postgresql-50.png?raw=true" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/136px-MySQL.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png" height=50/>
             </td>
         </tr>
         <tr>
@@ -47,13 +49,13 @@
                 Frontend
             </th>
             <th>
-                Data Science
+                Machine Learning
             </th>
         </tr>
         <tr>
             <td align="center" width="50%" >
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-react-50.png?raw=true" height=50/>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-bootstrap-50.png?raw=true" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" height=50/>
             </td>
             <td align="center" width="50%" >
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/330px-NumPy_logo_2020.svg.png" height=50/>
@@ -93,7 +95,7 @@
         </tr>
         <tr>
             <td align="center" colspan=2>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-git-50.png?raw=true" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/150px-Git-logo.svg.png" height=50/>
             </td>
         </tr>
         <tr>
@@ -111,11 +113,11 @@
         </tr>
         <tr>
             <td align="center" width="50%">
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-github-50.png?raw=true" height=50/>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-gitlab-50.png?raw=true" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/62px-Font_Awesome_5_brands_github.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/250px-GitLab_logo.svg.png" height=50/>
             </td>
             <td align="center" width="50%" >
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-amazon-web-services-50.png?raw=true" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" height=50/>
             </td>
         </tr>
         <tr>
@@ -125,9 +127,20 @@
         </tr>
         <tr>
             <td align="center" width="50%"  colspan=2>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-intellij-idea-50.png?raw=true" height=50/>
-                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/icons/icons8-visual-studio-code-2019-50.png?raw=true" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/64px-IntelliJ_IDEA_Logo.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/64px-Spyder_logo.svg.png" height=50/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" height=50/>
             </td>
         </tr>
     </tbody>
+    <tfoot>
+        <tr>
+          <td colspan=2>
+            <sub>
+              Image and Icon source : Wikpedia and <a target="_blank" href="https://icons8.com">Icons8</a>
+            </sub>
+          </td>
+      </tr>
+    </tfoot>
 </table>
