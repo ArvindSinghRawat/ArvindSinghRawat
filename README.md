@@ -186,7 +186,9 @@
 
 ### Medium
 
-[![Arvind's Medium](https://github-readme-medium.vercel.app/?username=arvindsinghrawat&limit=2)](https://medium.com/@arvindsinghrawat)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0" alt="Recent Article 0">
 
 <hr/>
 
