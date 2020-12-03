@@ -182,12 +182,23 @@
 
 <hr/>
 
+## Online Presence
+
+### Medium
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/1" alt="Recent Article 1">
+
+<hr/>
+
 <p align="center"> 
     Want to Connect ! <br/>
     Use the above <a href="#user-content-social">links</a>
 </p>
 
 <hr/>
+
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=ArvindSinghRawat&color=blue"/>
     <img src="https://badges.pufler.dev/visits/ArvindSinghRawat/ArvindSinghRawat"/>
