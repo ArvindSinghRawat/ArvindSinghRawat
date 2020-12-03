@@ -188,6 +188,21 @@
 </p>
 
 <hr/>
+
+## Online Presence
+
+### Medium
+
+<br><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/0" alt="Recent Article 0"></a>
+
+
+<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/1" alt="Recent Article 1"></a>
+
+<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arvindsinghrawat/2" alt="Recent Article 2"></a>
+
+<hr/>
+
+<hr/>
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=ArvindSinghRawat&color=blue"/>
     <img src="https://badges.pufler.dev/visits/ArvindSinghRawat/ArvindSinghRawat"/>
