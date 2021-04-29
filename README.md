@@ -58,9 +58,10 @@
                 <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png" height=50/>
             </td>
             <td align="center" width="50%" >
-                <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/136px-MySQL.svg.png" height=50/> &nbsp; &nbsp; &nbsp;
-                &nbsp;
-                <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png" height=50/>
+                <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/MySQL_Logo.png/104px-MySQL_Logo.png" height=50/> &nbsp; &nbsp; 
+                <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png" height=50/> &nbsp; &nbsp; 
+                <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" height=50/> &nbsp; &nbsp; 
+                <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" height=50/> &nbsp; &nbsp; 
             </td>
         </tr>
         <tr>
@@ -125,7 +126,7 @@
         <tr>
             <td align="center" colspan=2>
                 <img alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/150px-Git-logo.svg.png" height=50/>
-                &nbsp;
+                &nbsp; &nbsp;
                 <img alt="Chrome Dev Tools" src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/chrome-dev.jpg?raw=true" height=50/>
             </td>
         </tr>
@@ -145,27 +146,36 @@
         <tr>
             <td align="center" width="50%">
                 <img alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/62px-Font_Awesome_5_brands_github.svg.png" height=50/>
-                &nbsp;
+                 &nbsp; &nbsp;
                 <img alt="Gitlab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/250px-GitLab_logo.svg.png" height=50/>
+                 &nbsp; &nbsp;
+                <img alt="Bitbucket" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/240px-Bitbucket-blue-logomark-only.svg.png" height=50/>
             </td>
             <td align="center" width="50%" >
-                <img alt="Amazon Web Services" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" height=50/>
+                <img alt="Amazon Web Services" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" height=50/> &nbsp; &nbsp;
+                <img alt="Google Cloud Platform" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/240px-Google-cloud-platform.svg.png" height=50/>
             </td>
         </tr>
         <tr>
-            <th colspan=2>
+            <th>
                 <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-program-50.png?raw=true" height=25/> Favourite IDE
+            </th>
+            <th>
+                <img src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/icons/icons8-program-50.png?raw=true" height=25/> Others
             </th>
         </tr>
         <tr>
-            <td align="center" width="50%"  colspan=2>
-                <img alt="Intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/64px-IntelliJ_IDEA_Logo.svg.png" height=50/>
-                &nbsp;
+            <td align="center" width="50%">
+                <img alt="Intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height=50/>
+                &nbsp; &nbsp;
                 <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png" height=50/>
-                &nbsp;
+                &nbsp; &nbsp;
                 <img alt="Spyder" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/64px-Spyder_logo.svg.png" height=50/>
-                &nbsp;
+                &nbsp; &nbsp;
                 <img alt="Jupyter Notebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" height=50/>
+            </td>
+            <td align="center" width="50%">
+                <img alt="Kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/148px-Apache_kafka.svg.png" height=50/>
             </td>
         </tr>
     </tbody>
