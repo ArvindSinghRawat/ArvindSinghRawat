@@ -2,13 +2,13 @@
 ### I am
 # Arvind Singh Rawat ! <img align="right" src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/images/Name.gif?raw=true"></img>
 
+> :desktop_computer: Backend Engineer\
 > :computer: Software Developer\
 > :robot: Machine Learning Enthusiast\
-> :desktop_computer: Backend Engineer
 
 <h2 id="user-content-social">
     Social &nbsp;
-    <a href="mailto:arvind160102261@gmail.com"><img src="https://img.shields.io/badge/-arvind160102261@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:asr.work.1@gmail.com"><img src="https://img.shields.io/badge/-asr.work.1-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="http://bit.ly/asr_linkedin"><img src="https://img.shields.io/badge/-Arvind%20Singh%20Rawat-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://bit.ly/asr_telegram"><img src="https://img.shields.io/badge/-Arvind-0088CC?style=flat&logo=Telegram&logoColor=white"/></a>
 </h2>
@@ -18,7 +18,7 @@
 - 📍 I am from [Dehradun, Uttarakhand, India](https://500px.com/photo/1003701656/Dehradun-by-Arvind-Singh-Rawat).
 - 🎯 I am currently learning Cloud Technologies with AWS(Amazon Web Services).
 - 💡 Occasionally, I participate in Competitive Coding.
-- 🥰 I am passionate about Machine Learning.
+- 🥰 I am passionate about Software Development.
 - 😄 Beside Programming: I love Listening music 🎵 and Gaming 🎮
 
 ## Github Statistics
@@ -58,9 +58,11 @@
                 <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png" height=50/>
             </td>
             <td align="center" width="50%" >
-                <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/136px-MySQL.svg.png" height=50/> &nbsp; &nbsp; &nbsp;
+                <img alt="MYSQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" height=50/> &nbsp; &nbsp; &nbsp;
                 &nbsp;
-                <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png" height=50/>
+                <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png" height=50/> &nbsp; &nbsp; &nbsp;
+                &nbsp;
+                <img height=50 alt="Cassandra" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png">
             </td>
         </tr>
         <tr>
@@ -159,7 +161,7 @@
         </tr>
         <tr>
             <td align="center" width="50%"  colspan=2>
-                <img alt="Intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/64px-IntelliJ_IDEA_Logo.svg.png" height=50/>
+                <img alt="Intellij" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height=50/>
                 &nbsp;
                 <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png" height=50/>
                 &nbsp;
@@ -201,5 +203,4 @@
 
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=ArvindSinghRawat&color=blue"/>
-    <img src="https://badges.pufler.dev/visits/ArvindSinghRawat/ArvindSinghRawat"/>
 </p>
