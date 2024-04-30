@@ -1,10 +1,7 @@
 name: Update badges
 
 on:
-  schedule:
-    # Runs at 2 am UTC
-    - cron: "0 12 * * *"
-
+  # Only execute when needed
   workflow_dispatch:
 
 jobs:
@@ -16,3 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: arvind-singh-rawat
+          CREDLY_SORT: POPULAR
