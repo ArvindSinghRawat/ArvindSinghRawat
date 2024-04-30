@@ -29,6 +29,12 @@
 ## Certified in:
 
 <!--START_SECTION:badges-->
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/06b3d983-e43d-4fe8-8462-604605eb779b "GitHub Foundations")
+[![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/7259debd-9495-4460-bea7-c6d9b155456d "Associate Cloud Engineer Certification")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/44c64efd-dad4-421a-8aee-dae4afbb5238 "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/7ec4b284-5694-4ca4-b4e9-d6cf966b411e "AWS Certified Cloud Practitioner")
+[![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/df4f53c5-5d2b-4892-aa1e-03511715c6ae "Python for Data Science")
+[![Applied Data Science with Python - Level 2](https://images.credly.com/size/110x110/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png)](http://www.credly.com/badges/55215861-a5ad-45ac-9825-24648987da35 "Applied Data Science with Python - Level 2")
 <!--END_SECTION:badges-->
 
 ## Tech Stack
