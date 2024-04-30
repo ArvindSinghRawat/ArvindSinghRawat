@@ -4,7 +4,7 @@
 
 > :desktop_computer: Backend Engineer\
 > :computer: Software Developer\
-> :robot: Machine Learning Enthusiast\
+> :robot: ML/AI Enthusiast
 
 <h2 id="user-content-social">
     Social &nbsp;
