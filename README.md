@@ -1,4 +1,4 @@
-### Hello Folks ! :wave:
+### Hello Folks! :wave:
 ### I am
 # Arvind Singh Rawat ! <img align="right" src="https://github.com/ArvindSinghRawat/ArvindSinghRawat/blob/master/resources/images/Name.gif?raw=true"></img>
 
@@ -10,21 +10,26 @@
     Social &nbsp;
     <a href="mailto:asr.work.1@gmail.com"><img src="https://img.shields.io/badge/-asr.work.1-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="http://bit.ly/asr_linkedin"><img src="https://img.shields.io/badge/-Arvind%20Singh%20Rawat-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://bit.ly/asr_telegram"><img src="https://img.shields.io/badge/-Arvind-0088CC?style=flat&logo=Telegram&logoColor=white"/></a>
+    <a href="https://stackoverflow.com/users/10702431/arvind-singh-rawat"><img src="https://img.shields.io/stackexchange/:stackexchangesite/r/:query" alt="Stack overflow stats"/></a>
 </h2>
 
 ## More about me
-- 🔭 I am currently working as __SDE Intern @ [HashedIn Technologies](https://hashedin.com/)__.
+- 🔭 I am currently working as __Software Engineer - III @ [HashedIn by Deloitte](https://hashedin.com/)__.
 - 📍 I am from [Dehradun, Uttarakhand, India](https://500px.com/photo/1003701656/Dehradun-by-Arvind-Singh-Rawat).
-- 🎯 I am currently learning Cloud Technologies with AWS(Amazon Web Services).
+- 🎯 I am currently learning Cloud Technologies with AWS(Amazon Web Services) and GCP(Google Cloud Platform).
+- 🤔 I am enthusiastic about exploring Gen AI, Cloud technologies, and Event-driven systems.
 - 💡 Occasionally, I participate in Competitive Coding.
-- 🥰 I am passionate about Software Development.
-- 😄 Beside Programming: I love Listening music 🎵 and Gaming 🎮
+- 😄 Besides programming: I love Listening to Music 🎵 and Gaming 🎮.
 
 ## Github Statistics
 
 ![Arvind's Github Stats](https://github-readme-stats.vercel.app/api?username=ArvindSinghRawat&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindSinghRawat&theme=synthwave&layout=compact)
+
+## Certified in:
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## Tech Stack
 
