@@ -10,16 +10,18 @@
     Social &nbsp;
     <a href="mailto:asr.work.1@gmail.com"><img src="https://img.shields.io/badge/-asr.work.1-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="http://bit.ly/asr_linkedin"><img src="https://img.shields.io/badge/-Arvind%20Singh%20Rawat-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://stackoverflow.com/users/10702431/arvind-singh-rawat"><img src="https://img.shields.io/stackexchange/:stackexchangesite/r/:query" alt="Stack overflow stats"/></a>
+    <a href="https://stackoverflow.com/users/10702431/arvind-singh-rawat">
+        <img alt="Stack Exchange" src="https://img.shields.io/stackexchange/stackoverflow/r/10702431?style=flat-square&label=Stack%20overflow&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F10702431%2Farvind-singh-rawat"/>
+    </a>
 </h2>
 
 ## More about me
 - 🔭 I am currently working as __Software Engineer - III @ [HashedIn by Deloitte](https://hashedin.com/)__.
-- 📍 I am from [Dehradun, Uttarakhand, India](https://500px.com/photo/1003701656/Dehradun-by-Arvind-Singh-Rawat).
-- 🎯 I am currently learning Cloud Technologies with AWS(Amazon Web Services) and GCP(Google Cloud Platform).
-- 🤔 I am enthusiastic about exploring Gen AI, Cloud technologies, and Event-driven systems.
+- 📍 I am from [Dehradun, Uttarakhand, **India**](https://500px.com/photo/1003701656/Dehradun-by-Arvind-Singh-Rawat).
+- 🤔 I am enthusiastic about exploring **Gen AI**, **Cloud tech**nologies, and **Event-driven system**s.
+- 🎯 I am currently learning Cloud Technologies with **AWS** _(Amazon Web Services)_ and **GCP** _(Google Cloud Platform)_.
 - 💡 Occasionally, I participate in Competitive Coding.
-- 😄 Besides programming: I love Listening to Music 🎵 and Gaming 🎮.
+- 😄 Besides programming: I love Listening to **Music** 🎵 and **Gaming** 🎮.
 
 ## Github Statistics
 
@@ -206,7 +208,7 @@
 <hr/>
 
 <p align="center"> 
-    Want to Connect ! <br/>
+    Want to Connect? <br/>
     Use the above <a href="#user-content-social">links</a>
 </p>
 
